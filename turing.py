@@ -18,12 +18,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Grace Hopper escreveu diversos artigos e relatórios sobre computação, incluindo um famoso sobre o conceito de 'bugs' em programas de computador, que se originou de um incidente em 1947 quando ela encontrou uma mariposa presa em um computador."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Grace Hopper é conhecida por várias citações inspiradoras, como: A melhor maneira de prever o futuro é inventá-lo. Além disso, ela popularizou o conceito de debugging ao documentar a remoção de um bug real de um computador."
     return mensagem
 
 
@@ -37,7 +37,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Grace Hopper.\n")
 
 continuar = True
 while continuar == True:
@@ -84,3 +84,5 @@ while continuar == True:
         mensagem = erro()
 
     print(mensagem)
+
+
