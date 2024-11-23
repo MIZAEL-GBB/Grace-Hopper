@@ -1,15 +1,19 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
-    return mensagem
+    mensagem = "Grace Hopper foi uma cientista da computação e contra-almirante da Marinha dos Estados Unidos. "
+                "Ela é conhecida por seu trabalho pioneiro no desenvolvimento da linguagem de programação COBOL e pela invenção do compilador, "
+                "que traduz código de alto nível para linguagem de máquina. Hopper foi uma das primeiras a popularizar o conceito de 'debugging'.")
+   return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Grace Hopper obteve seu doutorado em Matemática na Universidade de Yale em 1934, sendo uma das primeiras mulheres a conquistar esse título na área."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = ("Grace Hopper é famosa por seu trabalho no desenvolvimento da linguagem de programação COBOL, "
+                "uma das primeiras linguagens de programação de alto nível. Ela também inventou o primeiro compilador, "
+                "facilitando a tradução de código fonte para linguagem de máquina.")
     return mensagem
 
 
